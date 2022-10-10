@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nordavid
 - 👀 I’m interested in frontend development, photography and music producation
-- 🌱 I’m currently learning game and multimedia development in heidelberg, germany
+- 🌱 I’m currently studying game and multimedia development in heidelberg, germany
 
 <!---
 nordavid/nordavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
